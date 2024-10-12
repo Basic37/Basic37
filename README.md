@@ -23,7 +23,7 @@
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title=".Net Framework" alt=".Net Framework" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" title=".Net Framework" alt=".Net Framework" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".Net Core" alt=".Net Core" width="40" height="40"/>&nbsp;
   <img src="https://assets.toptal.io/images?url=https://bs-uploads.toptal.io/blackfish-uploads/components/skill_page/content/logo_file/logo/195522/regular_82x82_mssql-a18f23f62a3f2d38756c6fcf3dd0b6b9.png" title="MS SQL" alt="MS SQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
